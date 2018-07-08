@@ -61,7 +61,7 @@
        id="linearGradient7114"
        osb:paint="solid">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#ffff00;stop-opacity:1;"
          offset="0"
          id="stop7112" />
     </linearGradient>
@@ -102,5 +102,5 @@
      r="33.25"
      fill="#fff"
      id="circle1398"
-     style="stroke:url(#linearGradient7118);stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:2,24;stroke-dashoffset:2" />
+     style="stroke:url(#linearGradient7118);stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2" />
 </svg>
